@@ -1,7 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>main site</div>
+  <div>
+    <div>main site</div>
+  </div>
 </template>
 
 <style scoped></style>
